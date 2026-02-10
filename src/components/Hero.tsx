@@ -49,7 +49,7 @@ const Hero = () => {
             Download CV
           </a>
           <a
-            href="mailto:zubin@example.com"
+            href="mailto:zubin.mba@gmail.com"
             className="inline-flex items-center gap-2 px-6 py-3 border border-primary-foreground/30 text-primary-foreground font-sans font-medium text-sm rounded-md hover:bg-primary-foreground/10 transition-all"
           >
             <Mail size={18} />
