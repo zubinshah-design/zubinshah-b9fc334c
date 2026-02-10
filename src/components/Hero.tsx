@@ -13,7 +13,7 @@ const Hero = () => {
           transition={{ duration: 0.8 }}
         >
           <p className="text-gold-light font-sans text-base md:text-lg tracking-[0.15em] uppercase mb-4">
-            Senior SAP S/4 HANA Project/Programme Manager | 15+ Years | UK &amp; Europe
+            Senior SAP S/4 HANA Programme Manager | 15+ Years | UK &amp; Europe
           </p>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold text-primary-foreground mb-6 tracking-tight">
             Zubin Shah
