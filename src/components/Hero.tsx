@@ -12,8 +12,8 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <p className="text-gold-light font-sans text-sm tracking-[0.3em] uppercase mb-4">
-            SAP Programme Manager &middot; PMO Lead
+          <p className="text-gold-light font-sans text-sm tracking-[0.2em] uppercase mb-4">
+            Senior SAP S/4 HANA Project/Programme Manager | 15+ Years | UK &amp; Europe
           </p>
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-serif font-bold text-primary-foreground mb-6 tracking-tight">
             Zubin Shah

@@ -45,10 +45,6 @@ const Contact = () => {
               <MapPin size={14} />
               South London, UK
             </span>
-            <span className="flex items-center gap-2">
-              <Mail size={14} />
-              +44-7534694126
-            </span>
             <span>British Citizen</span>
           </div>
         </motion.div>
