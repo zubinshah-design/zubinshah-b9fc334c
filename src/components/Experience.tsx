@@ -108,7 +108,7 @@ const Experience = () => {
                 {/* Dot */}
                 <div className="absolute left-2.5 md:left-4.5 top-1 w-3 h-3 rounded-full bg-accent border-2 border-background" />
 
-                <div className="card-elevated">
+                <div id={`exp-${exp.company.toLowerCase()}`} className="card-elevated transition-all duration-500">
                   <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1 mb-2">
                     <span className="text-accent font-sans text-xs tracking-wider uppercase font-medium">
                       {exp.period}
