@@ -12,10 +12,10 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <p className="text-gold-light font-sans text-sm tracking-[0.2em] uppercase mb-4">
+          <p className="text-gold-light font-sans text-base md:text-lg tracking-[0.15em] uppercase mb-4">
             Senior SAP S/4 HANA Project/Programme Manager | 15+ Years | UK &amp; Europe
           </p>
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-serif font-bold text-primary-foreground mb-6 tracking-tight">
+          <h1 className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold text-primary-foreground mb-6 tracking-tight">
             Zubin Shah
           </h1>
           <div className="gold-line mx-auto mb-8" />
