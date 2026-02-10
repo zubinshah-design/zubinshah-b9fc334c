@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
           <div className="gold-line mx-auto mb-8" />
           <p className="text-primary-foreground/70 font-sans text-lg md:text-xl max-w-2xl mx-auto leading-relaxed font-light">
-            Over 15 years of leadership delivering complex SAP-led business
+            Over 15 years of PMO leadership delivering complex SAP-led business
             transformation programmes with global organisations.
           </p>
         </motion.div>
