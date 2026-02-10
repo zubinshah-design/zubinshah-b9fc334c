@@ -1,15 +1,10 @@
 import { motion } from "framer-motion";
 import { Linkedin, Download, Mail } from "lucide-react";
-import heroBg from "@/assets/hero-bg.jpg";
 
 const Hero = () => {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
-      <div
-        className="absolute inset-0 bg-cover bg-center"
-        style={{ backgroundImage: `url(${heroBg})` }}
-      />
-      <div className="absolute inset-0 hero-gradient opacity-85" />
+      <div className="absolute inset-0 hero-gradient" />
 
       <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
         <motion.div
