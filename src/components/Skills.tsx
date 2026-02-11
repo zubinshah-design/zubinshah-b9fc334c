@@ -6,10 +6,10 @@ const skills = [
   "SAP S/4 HANA (Public Cloud, Private Cloud, On-Premise)",
   "Complex Finance Transformation led by SAP",
   "SAP Data Governance",
-  "Stakeholder Engagement & C-Suite Communication",
-  "Shared Services (Finance & Management Reporting)",
+  "Stakeholder Engagement & Change Management",
+  "C-Suite Communications & Reporting",
   "Target Operating Model Design",
-  "Leading Cross-Country Teams",
+  "Line Managing Cross-Country Teams of 25+ Individuals",
 ];
 
 const Skills = () => {
