@@ -1,12 +1,18 @@
 import { motion } from "framer-motion";
+import diageoLogo from "@/assets/logos/diageo.png";
+import finlyncLogo from "@/assets/logos/finlync.png";
+import eyLogo from "@/assets/logos/ey.png";
+import pwcLogo from "@/assets/logos/pwc.png";
+import accentureLogo from "@/assets/logos/accenture.png";
+import capgeminiLogo from "@/assets/logos/capgemini.png";
 
 const companies = [
-  { name: "Diageo", id: "exp-diageo" },
-  { name: "FinLync", id: "exp-finlync" },
-  { name: "EY", id: "exp-ey" },
-  { name: "PwC", id: "exp-pwc" },
-  { name: "Accenture", id: "exp-accenture" },
-  { name: "Capgemini", id: "exp-capgemini" },
+  { name: "Diageo", id: "exp-diageo", logo: diageoLogo },
+  { name: "FinLync", id: "exp-finlync", logo: finlyncLogo },
+  { name: "EY", id: "exp-ey", logo: eyLogo },
+  { name: "PwC", id: "exp-pwc", logo: pwcLogo },
+  { name: "Accenture", id: "exp-accenture", logo: accentureLogo },
+  { name: "Capgemini", id: "exp-capgemini", logo: capgeminiLogo },
 ];
 
 const About = () => {
@@ -67,8 +73,9 @@ const About = () => {
               <button
                 key={company.id}
                 onClick={() => scrollToExperience(company.id)}
-                className="px-5 py-2.5 border border-border rounded-md font-sans text-sm font-medium text-foreground bg-card hover:border-accent hover:text-accent transition-all duration-300 cursor-pointer"
+                className="flex items-center gap-2.5 px-5 py-2.5 border border-border rounded-md font-sans text-sm font-medium text-foreground bg-card hover:border-accent hover:text-accent transition-all duration-300 cursor-pointer"
               >
+                <img src={company.logo} alt={company.name} className="w-5 h-5 object-contain rounded-sm" />
                 {company.name}
               </button>
             ))}
