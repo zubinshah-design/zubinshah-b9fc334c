@@ -34,21 +34,10 @@ const About = () => {
           <h2 className="section-heading mb-4">Professional Summary</h2>
           <div className="gold-line mb-8" />
           <p className="text-muted-foreground font-sans leading-relaxed text-lg">
-            As an experienced SAP Project/Programme Manager, I bring over 15 years of leadership in delivering
-            complex SAP-led business transformation programmes. I have partnered with global organisations
-            through top-tier companies including <span className="text-foreground font-medium">Diageo, EY, PwC, Accenture, and Capgemini</span>,
-            advising clients on critical, long-term decisions that shape enterprise-wide business processes
-            and C-suite reporting.
+            Programme Director / Senior SAP Programme Manager with 15+ years leading SAP-led business transformation for global organisations, including delivery through <span className="text-foreground font-medium">Diageo</span> and advisory / SI environments across <span className="text-foreground font-medium">EY, PwC, Accenture and Capgemini</span>. Trusted to steer business-critical decisions that shape enterprise operating processes and C-suite reporting, and to restore control in high-stakes programmes through disciplined governance, clear decision rights, and strong system-integrator challenge.
           </p>
           <p className="text-muted-foreground font-sans leading-relaxed text-lg mt-4">
-            My expertise lies in leading end-to-end SAP S/4HANA transformation programmes, navigating
-            high-stakes delivery environments with confidence and precision. I have successfully operated
-            across agile, waterfall, and hybrid delivery models, leading cross-functional teams of up to
-            25 resources across multiple geographies.
-          </p>
-          <p className="text-muted-foreground font-sans leading-relaxed text-lg mt-4">
-            My portfolio spans multiple industries and delivery scales, from targeted change initiatives
-            to large-scale, multi-year transformation programmes with budgets of up to £2.5mn.
+            Deep end-to-end SAP S/4HANA delivery experience, translating complex functional and technical requirements into predictable execution and measurable outcomes. Experienced across agile, waterfall and hybrid models, leading cross-functional teams of up to 25 across multiple geographies while maintaining tight financial control, risk management, and stakeholder alignment from mobilisation through go-live and hypercare. Portfolio includes initiatives up to £3m, spanning targeted change through multi-year transformation.
           </p>
         </motion.div>
 
