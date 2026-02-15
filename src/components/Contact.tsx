@@ -17,7 +17,7 @@ const Contact = () => {
           </h2>
           <p className="text-primary-foreground/50 font-sans text-base mb-1">References available on request</p>
           <div className="gold-line mx-auto mb-8" />
-          <p className="text-primary-foreground/60 font-sans text-lg max-w-xl mx-auto mb-10">
+          <p className="text-primary-foreground/60 font-sans text-xl max-w-xl mx-auto mb-10">
             Available for SAP Programme Management and PMO Leadership roles across the UK and Europe.
           </p>
 
