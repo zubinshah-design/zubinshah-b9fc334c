@@ -9,7 +9,7 @@ const experiences = [
       "Delivering end-to-end brownfield project moving from SAP ECC to SAP S/4 HANA Private Cloud.",
     highlights: [
       "Led SI partners SNP and IBM to deliver 3 successful E2E trial migrations",
-      "Managed 14 direct reports across Data Migration and Data Validation",
+      "Managed 14 direct reports across multiple teams and additionally managed SI partner project managers",
       "Achieved 95% data accuracy across three successful trial migrations",
       "Led tooling and resource budgetary decisions",
     ],
