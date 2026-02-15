@@ -8,6 +8,7 @@ const certifications = [
   "SAP Finance",
   "SAP Controlling",
   "SAP Rise (in progress)",
+  "SAP Grow (in progress)",
 ];
 
 const industries = [
