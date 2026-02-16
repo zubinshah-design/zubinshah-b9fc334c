@@ -11,7 +11,7 @@ const Contact = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
         >
-          <p className="text-gold-light font-sans text-sm tracking-[0.2em] uppercase mb-3">Connect</p>
+          
           <h2 className="text-3xl md:text-4xl font-serif font-semibold text-primary-foreground tracking-tight mb-4">
             Let's Work Together
           </h2>
