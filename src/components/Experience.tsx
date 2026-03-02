@@ -17,7 +17,7 @@ const experiences = [
   {
     period: "Nov 2022 – Jun 2024",
     company: "FinLync",
-    title: "EMEA Lead Project Manager",
+    title: "EMEA Lead Project Manager (SAP)",
     description:
       "Onboarding five Fortune 500 clients and delivering SAP S/4HANA Treasury functionality.",
     highlights: [
@@ -29,7 +29,7 @@ const experiences = [
   {
     period: "May 2021 – May 2022",
     company: "EY",
-    title: "Senior Delivery Manager",
+    title: "Senior Delivery Manager (SAP)",
     description:
       "Global SAP S/4 HANA Public Cloud greenfield template for Landis+Gyr with Capgemini.",
     highlights: [
@@ -41,7 +41,7 @@ const experiences = [
   {
     period: "Aug 2019 – Feb 2021",
     company: "PwC",
-    title: "Senior Delivery Lead",
+    title: "Senior Delivery Lead (SAP)",
     description:
       "Greenfield SAP S/4HANA Private Cloud implementation at Heineken across 20 European countries.",
     highlights: [
@@ -53,7 +53,7 @@ const experiences = [
   {
     period: "Mar 2014 – Jul 2019",
     company: "Accenture",
-    title: "Finance Delivery Lead",
+    title: "Finance Delivery Lead (SAP)",
     description:
       "Delivering process standardisation for Compass Group, Dyson, Dixons Carphone, Imperial Brands, and BP.",
     highlights: [
