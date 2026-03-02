@@ -7,7 +7,8 @@ const certifications = [
   "ITIL V3 Foundation",
   "SAP Finance",
   "SAP Controlling",
-  "SAP Rise (in progress)",
+  "SAP Rise",
+  "SAP Activate",
   "SAP Grow (in progress)",
 ];
 
